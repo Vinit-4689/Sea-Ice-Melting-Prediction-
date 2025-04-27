@@ -1,3 +1,6 @@
+![Sea ice melting prediction banner](https://github.com/user-attachments/assets/f1d09259-de87-433a-a1f1-adfb70cee0c8)
+
+
 # Sea Ice Extent Forecasting Project 🌎❄️
 
 ## 📑 Objective:
