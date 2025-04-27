@@ -64,7 +64,8 @@ requirements.txt # Libraries used
 ---
 
 ## 📈 Final Forecast Plot:
-(Insert "Prophet clipped forecast" image here!)
+![Postprocessign](https://github.com/user-attachments/assets/0e527366-203a-44fa-9019-763368cf0bb6)
+
 
 ---
 
